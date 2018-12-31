@@ -1,0 +1,7 @@
+Song.create(title: "Hey Jude", release_year: 1968, artist_name: "Beatles", genre: "Rock")
+Song.create(title: "Thunderstruck", release_year: 1990, artist_name: "AC/DC", genre: "Rock")
+Song.create(title: "Billie Jean", release_year: 1982, artist_name: "Michael Jackson", genre: "Pop")
+Song.create(title: "Beat It", release_year: 1982, artist_name: "Michael Jackson", genre: "Pop")
+Song.create(title: "Smooth Criminal", release_year: 1987, artist_name: "Michael Jackson", genre: "Pop")
+Song.create(title: "Funky Cold Medina", release_year: 1989, artist_name: "Tone Loc", genre: "Rap")
+Song.create(title: "Georgia On My Mind", release_year: 2003, artist_name: "Ray Charles", genre: "Blues")
